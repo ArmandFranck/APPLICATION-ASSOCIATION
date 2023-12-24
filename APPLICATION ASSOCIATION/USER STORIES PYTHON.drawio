@@ -1,0 +1,490 @@
+<mxfile host="Electron" modified="2023-12-17T18:32:31.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="YnLXbPoeJFDwD93N6MQ2" version="22.1.2" type="device">
+  <diagram name="Page-1" id="Hj90Q0peYze-mXvOy1Iu">
+    <mxGraphModel dx="1761" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-1" target="6OpsQvztBxSFwMr0LPK9-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-1" value="CONNECTION&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-2" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#0000CC;strokeWidth=6;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="400" as="sourcePoint" />
+            <mxPoint x="780" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-3" value="MEMBRES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-4" target="6OpsQvztBxSFwMr0LPK9-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-4" value="CONSULTER&amp;nbsp;&lt;br&gt;ACTIVITES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-5" target="6OpsQvztBxSFwMr0LPK9-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-5" value="SUR LA PAGE DE CONNECTION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-6" value="ENTREZ LE NOM D UTILISATEUR&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="175" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-7" value="ENTREZ LE MOT DE PASSE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-8" value="SAUVEGARDE&lt;br&gt;DES DONNEES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="285" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-9" value="CONNECTION&amp;nbsp;&lt;br&gt;REUSSI/REFUSER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="335" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-10" target="6OpsQvztBxSFwMr0LPK9-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-10" value="SUR LA PAGE DE CONSULTATON DES ACTIVITES&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="70" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-13" value="CREER ACTIVITES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="175" y="170" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-14" value="SUPRIMER ACTIVITES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="225" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-15" value="MODIFIER ACTIVITES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-16" value="CONSULTER ACTIVITES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="340" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-27" target="6OpsQvztBxSFwMr0LPK9-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-27" value="CONSULTER&amp;nbsp;&lt;br&gt;COTISATION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-29" value="SUR LA PAGE DE CONSULTATON DES COTISATIONS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="70" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-33" value="CONSULTER COTISATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="170" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-34" value="HISTORIQUE DE CONTISATION REALISER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="302.5" y="225" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-35" value="MONTANT DE LA COTISATION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-37" target="6OpsQvztBxSFwMr0LPK9-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-37" value="VOIR LES DONS ET OEUVRE CARITATIVES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-39" target="6OpsQvztBxSFwMr0LPK9-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-39" value="SUR LA PAGE DE CONSULTATON DES DONS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="65" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-40" value="DONS EFFECTUER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="435" y="165" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-41" value="MONTANT DEPENSER POUR LE DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="225" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-42" value="LIEU DU DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="285" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-43" value="HISTORIQUE DES DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="340" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-45" target="6OpsQvztBxSFwMr0LPK9-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-45" value="CONSULTER&amp;nbsp;&lt;br&gt;REUNION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-47" target="6OpsQvztBxSFwMr0LPK9-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-47" value="SUR LA PAGE DE CONSULTATON DES REUNION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="65" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-48" value="VOIR OBJET DE LA REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="575" y="165" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-49" value="VOIR DATE DE LA REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="230" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-50" value="VOIR PV DE LA REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="300" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-61" target="6OpsQvztBxSFwMr0LPK9-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-61" value="INSCRIPTION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-63" target="6OpsQvztBxSFwMr0LPK9-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-63" value="SUR LA PAGE D&#39;INSCRIPTION&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="65" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-64" value="CREER UN NOM UTLISATEUR&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="695" y="165" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-65" value="CREER UN MOT DE PASSE&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="220" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-66" value="SAUVEGARDE&lt;br&gt;DES DONNEES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="275" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-67" value="CONNECTION&amp;nbsp;&lt;br&gt;REUSSI/REFUSER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="685" y="335" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-69" target="6OpsQvztBxSFwMr0LPK9-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-69" value="CONNECTION&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-71" target="6OpsQvztBxSFwMr0LPK9-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-71" value="CONSULTER&amp;nbsp;&lt;br&gt;ACTIVITES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-73" target="6OpsQvztBxSFwMr0LPK9-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-73" value="SUR LA PAGE DE CONNECTION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-74" value="ENTREZ LE NOM D UTILISATEUR&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="575" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-75" value="ENTREZ LE MOT DE PASSE" style="rounded=1;whiteSpace=wrap;html=1;arcSize=29;" parent="1" vertex="1">
+          <mxGeometry x="50" y="630" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-77" value="CONNECTION&amp;nbsp;&lt;br&gt;REUSSI/REFUSER" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;" parent="1" vertex="1">
+          <mxGeometry x="40" y="685" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-79" target="6OpsQvztBxSFwMr0LPK9-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-79" value="SUR LA PAGE DE CONSULTATON DES ACTIVITES&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="470" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-80" value="CREER ACTIVITES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="175" y="570" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-81" value="SUPRIMER ACTIVITES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="625" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-82" value="MODIFIER ACTIVITES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="680" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-83" value="CONSULTER ACTIVITES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="740" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-84" value="MEMBRE DU BUREAU" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="665" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-86" value="AJOUTER UN MEMBRE" style="rounded=1;whiteSpace=wrap;html=1;arcSize=26;" parent="1" vertex="1">
+          <mxGeometry x="42.5" y="750" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-87" value="SUPPRIMER UN MEMBRE&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;" parent="1" vertex="1">
+          <mxGeometry x="42.5" y="800" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-88" value="ATTRIBUTION DE ROLE AU MEMBRES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="47.5" y="860" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-89" value="NOTIFICATION DE CONTISATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="302.5" y="350" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-91" target="6OpsQvztBxSFwMr0LPK9-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-91" value="CONSULTER&amp;nbsp;&lt;br&gt;COTISATION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-93" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-93" value="SUR LA PAGE DE CONSULTATON DES COTISATIONS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="470" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-94" value="CONSULTER COTISATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="570" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-95" value="HISTORIQUE DE CONTISATION REALISER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="302.5" y="625" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-96" value="MONTANT DE LA COTISATION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="690" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-97" value="NOTIFICATION DE CONTISATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="302.5" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-99" target="6OpsQvztBxSFwMr0LPK9-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-99" value="VOIR LES DONS ET OEUVRE CARITATIVES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-101" target="6OpsQvztBxSFwMr0LPK9-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-101" value="SUR LA PAGE DE CONSULTATON DES DONS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="470" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-102" value="DONS EFFECTUER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="435" y="570" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-103" value="MONTANT DEPENSER POUR LE DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="630" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-104" value="LIEU DU DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="690" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-105" value="HISTORIQUE DES DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="750" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-106" value="LISTE DES DONS A EFFECTUER&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="810" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-107" value="AJOUT DE DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="870" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-108" value="SUPPRESSION DE DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="930" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-110" target="6OpsQvztBxSFwMr0LPK9-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-110" value="CONSULTER&amp;nbsp;&lt;br&gt;REUNION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-112" target="6OpsQvztBxSFwMr0LPK9-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-112" value="SUR LA PAGE DE CONSULTATON DES REUNION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="470" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-113" value="VOIR OBJET DE LA REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="570" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-114" value="VOIR DATE DE LA REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="635" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-115" value="VOIR PV DE LA REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="705" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-116" value="CREER REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="760" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-117" value="MODIFIER REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="820" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-118" value="SUPPRIMER REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="880" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-119" value="GENERATION DE PV" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="940" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-121" value="TRESORERIE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="1060" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-123" target="6OpsQvztBxSFwMr0LPK9-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-123" value="CONNECTION&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="57.5" y="1010" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-125" target="6OpsQvztBxSFwMr0LPK9-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-125" value="SUR LA PAGE DE CONNECTION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="57.5" y="1070" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-126" value="ENTREZ LE NOM D UTILISATEUR&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="62.5" y="1129" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-127" value="ENTREZ LE MOT DE PASSE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="62.5" y="1180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-129" value="CONNECTION&amp;nbsp;&lt;br&gt;REUSSI/REFUSER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="47.5" y="1230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-130" target="6OpsQvztBxSFwMr0LPK9-132" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-130" value="GESTION DES COTISATIONS ET DONS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="175" y="1015" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-131" target="6OpsQvztBxSFwMr0LPK9-132" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-131" value="SUR LA PAGE GESTION TRESORIE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="175" y="1070" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-132" value="ENREGSITREMENT DES DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1129" width="125" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-135" value="GERER BUDGET" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1180" width="125" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-137" value="MONTANT TOTAL EN CAISSE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1225" width="125" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-139" value="GENERATION DES NOTIFICATIONS D&#39;INFORMATION&amp;nbsp;&lt;br&gt;POUR PREVENIR LES MEMBRES DE L&#39;ASSOCIATION&lt;br&gt;LORSQU&#39;IL Y A UNE ACTION A LA TRESORIE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="167.5" y="1260" width="122.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-141" target="6OpsQvztBxSFwMr0LPK9-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-141" value="CONSULTER&amp;nbsp;&lt;br&gt;ACTIVITES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1010" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-143" target="6OpsQvztBxSFwMr0LPK9-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-143" value="SUR LA PAGE DE CONSULTATON DES ACTIVITES&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1070" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-144" value="CREER ACTIVITES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1170" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-145" value="SUPRIMER ACTIVITES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1225" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-146" value="MODIFIER ACTIVITES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-147" value="CONSULTER ACTIVITES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="1340" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-149" target="6OpsQvztBxSFwMr0LPK9-151" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-149" value="CONSULTER&amp;nbsp;&lt;br&gt;COTISATION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="415" y="1015" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-151" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="1175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-151" value="SUR LA PAGE DE CONSULTATON DES COTISATIONS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="415" y="1075" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-152" value="CONSULTER COTISATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1175" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-153" value="HISTORIQUE DE CONTISATION REALISER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="417.5" y="1230" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-154" value="MONTANT DE LA COTISATION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1295" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-156" target="6OpsQvztBxSFwMr0LPK9-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-156" value="VOIR LES DONS ET OEUVRE CARITATIVES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1010" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-158" target="6OpsQvztBxSFwMr0LPK9-159" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-158" value="SUR LA PAGE DE CONSULTATON DES DONS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1070" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-159" value="DONS EFFECTUER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1175" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-160" value="MONTANT DEPENSER POUR LE DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1232.5" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-161" value="LIEU DU DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-162" value="HISTORIQUE DES DONS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="565" y="1345" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6OpsQvztBxSFwMr0LPK9-164" target="6OpsQvztBxSFwMr0LPK9-166" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-164" value="CONSULTER&amp;nbsp;&lt;br&gt;REUNION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="685" y="1010" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6OpsQvztBxSFwMr0LPK9-166" target="6OpsQvztBxSFwMr0LPK9-167" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-166" value="SUR LA PAGE DE CONSULTATON DES REUNION" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="685" y="1070" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-167" value="VOIR OBJET DE LA REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1170" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-168" value="VOIR DATE DE LA REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="685" y="1235" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-169" value="VOIR PV DE LA REUNION&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="685" y="1305" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-170" value="NOTIFICATION DE CONTISATION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="417.5" y="1355" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-173" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#0000CC;strokeWidth=6;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="1000" as="sourcePoint" />
+            <mxPoint x="790" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-174" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#001DBC;strokeWidth=3;fillColor=#0050ef;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1470" as="sourcePoint" />
+            <mxPoint x="160" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-176" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#001DBC;strokeWidth=3;fillColor=#0050ef;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1480" as="sourcePoint" />
+            <mxPoint x="290" y="4.99885498046865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-177" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#001DBC;strokeWidth=3;fillColor=#0050ef;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="1480" as="sourcePoint" />
+            <mxPoint x="413.5" y="4.998854980468693" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-178" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#001DBC;strokeWidth=3;fillColor=#0050ef;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="1490" as="sourcePoint" />
+            <mxPoint x="555" y="4.998854980468764" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OpsQvztBxSFwMr0LPK9-179" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#001DBC;strokeWidth=3;fillColor=#0050ef;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="683" y="1490" as="sourcePoint" />
+            <mxPoint x="683.33" y="-0.0011450195312363576" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
